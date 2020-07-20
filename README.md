@@ -1,2 +1,2 @@
 # neighbourhoods-battle
-Comparison of neighbourhoods using data analysis
+The project is about comparison of neighbourhoods using data analysis.
